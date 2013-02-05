@@ -1,2 +1,5 @@
 .DS_Store
 .*.swp
+etc/addr_server
+etc/driver
+etc/portbind
