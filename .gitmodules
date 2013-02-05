@@ -1,0 +1,3 @@
+[submodule "mudlibs/lima"]
+	path = mudlibs/lima
+	url = ./mudlibs/lima/
