@@ -1,6 +1,6 @@
 [submodule "mudlibs/lima"]
 	path = mudlibs/lima
-	url = ./mudlibs/lima/
+	url = git@github.com:rmanis/Lima.git
 [submodule "mudlibs/lil"]
 	path = mudlibs/lil
 	url = git@github.com:rmanis/lil.git
