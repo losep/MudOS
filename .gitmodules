@@ -3,4 +3,4 @@
 	url = ./mudlibs/lima/
 [submodule "mudlibs/lil"]
 	path = mudlibs/lil
-	url = ./mudlibs/lil
+	url = git@github.com:rmanis/lil.git
